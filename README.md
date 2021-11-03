@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://solved.ac/9_better"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=9_better"></a>
+
+
+
 <!--
 **better-nine/better-nine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
