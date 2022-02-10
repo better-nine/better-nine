@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://solved.ac/profile/9_better"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=9_better"></a>
+<a href="https://solved.ac/9_better"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=9_better"></a>
 
 
 
